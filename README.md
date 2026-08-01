@@ -21,7 +21,7 @@ Sou estudante de Ciências da Computação e desenvolvedora Python apaixonada po
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,git,github,html,css,javascript,mysql,sqlite,linux,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,git,github,html,css,javascript,mysql,sqlite,vscode" />
 </p>
 
 ---
@@ -48,24 +48,6 @@ Sou estudante de Ciências da Computação e desenvolvedora Python apaixonada po
 - Visão Computacional
 - Agricultura Inteligente
 - Internet das Coisas (IoT)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=github-dark&hide_border=true"/>
-</p>
 
 ---
 
