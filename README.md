@@ -44,9 +44,7 @@ Sou estudante de Ciências da Computação e desenvolvedora Python apaixonada po
 - Sistemas Inteligentes
 - Desenvolvimento Backend
 - APIs REST
-- Ciência de Dados
 - Visão Computacional
-- Agricultura Inteligente
 - Internet das Coisas (IoT)
 
 ---
