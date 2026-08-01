@@ -6,15 +6,13 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Ciências da Computação e desenvolvedora Python apaixonada por desenvolvimento Backend, Inteligência Artificial e Engenharia de Dados.
+Sou estudante de Ciências da Computação e desenvolvedora Backend Python e aspirante em Inteligência Artificial.
 
 - 🐍 Desenvolvedora Python com experiência em **FastAPI**, **SQLAlchemy** e **APIs REST**.
-- 🤖 Desenvolvimento de soluções utilizando **Machine Learning** e **Visão Computacional**.
 - 📊 Experiência com **Pandas**, **NumPy** e **Scikit-learn** para análise e modelagem de dados.
-- 🧠 Interesse em **Sistemas de Recomendação**, **Inteligência Artificial** e **Ciência de Dados**.
+- 🧠 Interesse em **Sistemas de Recomendação** e **Inteligência Artificial**.
 - 🗄️ Experiência com bancos de dados **SQLite** e **MySQL**.
 - 💻 Apaixonada por **Algoritmos**, **Estruturas de Dados** e **Programação Competitiva**.
-- 🌱 Sempre em busca de aprender novas tecnologias e desenvolver soluções que gerem impacto positivo.
 
 ---
 
@@ -44,9 +42,6 @@ Sou estudante de Ciências da Computação e desenvolvedora Python apaixonada po
 - Sistemas Inteligentes
 - Desenvolvimento Backend
 - APIs REST
-- Visão Computacional
-- Internet das Coisas (IoT)
-
 ---
 
 ## 📬 Get in Touch
