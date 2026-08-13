@@ -26,8 +26,7 @@ Sou estudante de Ciências da Computação e desenvolvedora Backend Python e asp
 
 ## 📚 Atualmente a aprender
 
-- Machine Learning
-- FastAPI Avançado
+- FastAPI
 - SQL e Modelagem de Dados
 - Estruturas de Dados e Algoritmos
 - Programação Competitiva
