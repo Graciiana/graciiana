@@ -1,14 +1,11 @@
 # Hi, I'm Graciana! 👋
 
-### Computer Science Student | Computational Resource Optimization Enthusiast
-
-Sou estudante de **Ciências da Computação**, desenvolvedora Backend com Python e interessada no desenvolvimento de soluções computacionais eficientes.
+### Computer Science Student | Backend com Python | Computational Resource Optimization Enthusiast
 
 I love **Competitive Programming** and **Computer Science**. ❤️
 
 ---
-
-Estou mergulhando no universo do **Zed**, explorando e apaixonando-me pelo vasto oceano da linguagem **C**.
+Actualmente estou mergulhando no universo do **Zed**, explorando e apaixonando-me pelo vasto oceano da linguagem **C**.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=zed,c,python,fastapi,java,git,mysql,vscode" />
@@ -19,10 +16,8 @@ Estou mergulhando no universo do **Zed**, explorando e apaixonando-me pelo vasto
 ## Areas of Interest
 
 - **High-Performance Computing:** desempenho e eficiência computacional.
-- **Algorithms & Data Structures:** desenvolvimento e análise de algoritmos.
 - **Mathematical Optimization:** programação linear e otimização de problemas.
 - **Computational Resource Optimization:** minimização do consumo de recursos computacionais.
-- **Artificial Intelligence:** exploração de algoritmos e modelos inteligentes.
 
 ---
 
