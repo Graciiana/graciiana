@@ -1,6 +1,6 @@
 # Hi, I'm Graciana! 👋
 
-### Computer Science Student | Backend com Python | Computational Resource Optimization Enthusiast
+### Computer Science Student
 
 I love **Competitive Programming** and **Computer Science**. ❤️
 
@@ -13,7 +13,7 @@ Actualmente estou mergulhando no universo do **Zed**, explorando e apaixonando-m
 
 ---
 
-## Areas of Interest
+#### Areas of Interest
 
 - **High-Performance Computing:** desempenho e eficiência computacional.
 - **Mathematical Optimization:** programação linear e otimização de problemas.
@@ -21,7 +21,7 @@ Actualmente estou mergulhando no universo do **Zed**, explorando e apaixonando-m
 
 ---
 
-## 📬 Get in Touch
+#### 📬 Get in Touch
 
 <p align="left">
   <a href="mailto:gracianaluvinga@gmail.com">
