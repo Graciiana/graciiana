@@ -7,10 +7,6 @@ I love **Competitive Programming** and **Computer Science**. ❤️
 ---
 Actualmente estou mergulhando no universo do **Zed**, explorando e apaixonando-me pelo vasto oceano da linguagem **C**.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=zed,python,fastapi,java,git,mysql,vscode" />
-</p>
-
 ---
 
 #### Areas of Interest
